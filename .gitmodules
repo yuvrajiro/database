@@ -1,0 +1,3 @@
+[submodule "firstgitrepo"]
+	path = firstgitrepo
+	url = https://github.com/yuvrajiro2outlook/firstgitrepo.git
